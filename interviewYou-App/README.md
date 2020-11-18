@@ -1,10 +1,8 @@
 # InterviewYou - Backend
 
 ## Environemnt
-Java8, Spring MVC, Spring Boot, Spring Data JPA, JWT Security, MySQL
+Java8, Spring MVC, Spring Boot, Spring Data JPA, JWT Security
 
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/maven-plugin/reference/html/#build-image)
+![website-api](https://user-images.githubusercontent.com/46202304/99576719-f7458780-299f-11eb-9370-2808a26622c3.PNG)
 
